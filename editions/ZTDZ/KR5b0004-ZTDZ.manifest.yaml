@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0004/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0004/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞玄靈寶丹水飛術運度小劫妙經
+  date: '2015-08-28 23:47:02.735896'
+  source:
+    repository: kanripo
+    path: KR5b0004
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0004_000-ZTDZ.yaml, hash: 'sha256:4c794306bd0ac8e76924c8b5c0a8ad2b893cfcf08a2dfc9e891534a4cb83ee89'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0004_000-ZTDZ.markers.yaml, hash: 'sha256:cbb1542bd897d0c3ab072ab652420ed251b7946067ffd232f649b0f34680cb05'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0004_SJB_000-050854a
+    span:
+    - body
+    - 0
+    - 5123
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:29631194a273967dbb4a5555d3e537fd7028ed641111f03a050e630fc63c6229
